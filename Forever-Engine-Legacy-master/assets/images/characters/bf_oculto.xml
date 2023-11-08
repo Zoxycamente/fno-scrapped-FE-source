@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_oculto.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfoculto_down0000" x="0" y="0" width="365" height="315" frameX="-2" frameY="-49" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0001" x="365" y="0" width="366" height="336" frameX="-1" frameY="-25" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0002" x="365" y="0" width="366" height="336" frameX="-1" frameY="-25" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0003" x="731" y="0" width="367" height="357" frameX="0" frameY="-4" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0004" x="731" y="0" width="367" height="357" frameX="0" frameY="-4" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0005" x="731" y="0" width="367" height="357" frameX="0" frameY="-4" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0006" x="1098" y="0" width="367" height="361" frameX="0" frameY="0" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0007" x="1098" y="0" width="367" height="361" frameX="0" frameY="0" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0008" x="1098" y="0" width="367" height="361" frameX="0" frameY="0" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0009" x="1098" y="0" width="367" height="361" frameX="0" frameY="0" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0010" x="1098" y="0" width="367" height="361" frameX="0" frameY="0" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0011" x="1098" y="0" width="367" height="361" frameX="0" frameY="0" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0012" x="1098" y="0" width="367" height="361" frameX="0" frameY="0" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_down0013" x="1098" y="0" width="367" height="361" frameX="0" frameY="0" frameWidth="367" frameHeight="364"/>
+	<SubTexture name="bfoculto_errobaixo0000" x="1465" y="0" width="363" height="360" frameX="-11" frameY="-21" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0001" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0002" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0003" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0004" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0005" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0006" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0007" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0008" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0009" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0010" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0011" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0012" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0013" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errobaixo0014" x="1828" y="0" width="373" height="381" frameX="0" frameY="0" frameWidth="374" frameHeight="381"/>
+	<SubTexture name="bfoculto_errodireita0000" x="2201" y="0" width="407" height="407" frameX="-10" frameY="0" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0001" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0002" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0003" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0004" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0005" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0006" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0007" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0008" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0009" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0010" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0011" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0012" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0013" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_errodireita0014" x="2608" y="0" width="386" height="403" frameX="0" frameY="-4" frameWidth="417" frameHeight="407"/>
+	<SubTexture name="bfoculto_erroesquerda0000" x="2994" y="0" width="387" height="394" frameX="0" frameY="0" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0001" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0002" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0003" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0004" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0005" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0006" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0007" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0008" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0009" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0010" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0011" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0012" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0013" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_erroesquerda0014" x="3381" y="0" width="364" height="381" frameX="-37" frameY="-13" frameWidth="401" frameHeight="394"/>
+	<SubTexture name="bfoculto_idle0000" x="3745" y="0" width="365" height="315" frameX="-4" frameY="-96" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0001" x="4110" y="0" width="366" height="336" frameX="-3" frameY="-72" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0002" x="4110" y="0" width="366" height="336" frameX="-3" frameY="-72" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0003" x="4476" y="0" width="367" height="357" frameX="-2" frameY="-51" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0004" x="4476" y="0" width="367" height="357" frameX="-2" frameY="-51" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0005" x="4476" y="0" width="367" height="357" frameX="-2" frameY="-51" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0006" x="0" y="407" width="368" height="371" frameX="-1" frameY="-37" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0007" x="0" y="407" width="368" height="371" frameX="-1" frameY="-37" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0008" x="0" y="407" width="368" height="371" frameX="-1" frameY="-37" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0009" x="368" y="407" width="368" height="385" frameX="-1" frameY="-23" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0010" x="736" y="407" width="369" height="408" frameX="0" frameY="0" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0011" x="736" y="407" width="369" height="408" frameX="0" frameY="0" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0012" x="736" y="407" width="369" height="408" frameX="0" frameY="0" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_idle0013" x="736" y="407" width="369" height="408" frameX="0" frameY="0" frameWidth="369" frameHeight="411"/>
+	<SubTexture name="bfoculto_left0000" x="1105" y="407" width="388" height="379" frameX="0" frameY="-1" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0001" x="1493" y="407" width="387" height="380" frameX="-3" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0002" x="1493" y="407" width="387" height="380" frameX="-3" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0003" x="1880" y="407" width="385" height="380" frameX="-7" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0004" x="1880" y="407" width="385" height="380" frameX="-7" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0005" x="1880" y="407" width="385" height="380" frameX="-7" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0006" x="2265" y="407" width="379" height="380" frameX="-17" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0007" x="2644" y="407" width="375" height="380" frameX="-23" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0008" x="2644" y="407" width="375" height="380" frameX="-23" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0009" x="2644" y="407" width="375" height="380" frameX="-23" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0010" x="2644" y="407" width="375" height="380" frameX="-23" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0011" x="2644" y="407" width="375" height="380" frameX="-23" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_left0012" x="2644" y="407" width="375" height="380" frameX="-23" frameY="0" frameWidth="398" frameHeight="380"/>
+	<SubTexture name="bfoculto_morte10000" x="3019" y="407" width="415" height="398"/>
+	<SubTexture name="bfoculto_morte10001" x="3019" y="407" width="415" height="398"/>
+	<SubTexture name="bfoculto_morte10002" x="3434" y="407" width="374" height="365" frameX="-21" frameY="-16" frameWidth="415" frameHeight="398"/>
+	<SubTexture name="bfoculto_morte10003" x="3808" y="407" width="381" height="382" frameX="-17" frameY="-8" frameWidth="415" frameHeight="398"/>
+	<SubTexture name="bfoculto_morte10004" x="3808" y="407" width="381" height="382" frameX="-17" frameY="-8" frameWidth="415" frameHeight="398"/>
+	<SubTexture name="bfoculto_morte10005" x="4189" y="407" width="374" height="365" frameX="-26" frameY="-13" frameWidth="415" frameHeight="398"/>
+	<SubTexture name="bfoculto_morte10006" x="4189" y="407" width="374" height="365" frameX="-26" frameY="-13" frameWidth="415" frameHeight="398"/>
+	<SubTexture name="bfoculto_morte20000" x="4563" y="407" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20001" x="4563" y="407" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20002" x="4563" y="407" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20003" x="0" y="815" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20004" x="0" y="815" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20005" x="0" y="815" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20006" x="4563" y="407" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20007" x="4563" y="407" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20008" x="4563" y="407" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20009" x="374" y="815" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20010" x="374" y="815" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20011" x="374" y="815" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20012" x="4563" y="407" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20013" x="4563" y="407" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20014" x="4563" y="407" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20015" x="748" y="815" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20016" x="748" y="815" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20017" x="748" y="815" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte20018" x="4563" y="407" width="374" height="365"/>
+	<SubTexture name="bfoculto_morte30000" x="1122" y="815" width="410" height="389"/>
+	<SubTexture name="bfoculto_morte30001" x="1122" y="815" width="410" height="389"/>
+	<SubTexture name="bfoculto_morte30002" x="1532" y="815" width="374" height="365" frameX="-18" frameY="-12" frameWidth="410" frameHeight="389"/>
+	<SubTexture name="bfoculto_morte30003" x="1532" y="815" width="374" height="365" frameX="-18" frameY="-12" frameWidth="410" frameHeight="389"/>
+	<SubTexture name="bfoculto_morte30004" x="1532" y="815" width="374" height="365" frameX="-18" frameY="-12" frameWidth="410" frameHeight="389"/>
+	<SubTexture name="bfoculto_morte30005" x="1532" y="815" width="374" height="365" frameX="-18" frameY="-12" frameWidth="410" frameHeight="389"/>
+	<SubTexture name="bfoculto_right0000" x="1906" y="815" width="405" height="407" frameX="-56" frameY="0" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0001" x="2311" y="815" width="392" height="390" frameX="-19" frameY="-17" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0002" x="2703" y="815" width="366" height="375" frameX="0" frameY="-32" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0003" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0004" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0005" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0006" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0007" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0008" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0009" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0010" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0011" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0012" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_right0013" x="3069" y="815" width="365" height="365" frameX="-1" frameY="-42" frameWidth="461" frameHeight="407"/>
+	<SubTexture name="bfoculto_uerrocima0000" x="3434" y="815" width="357" height="439" frameX="-11" frameY="0" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0001" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0002" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0003" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0004" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0005" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0006" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0007" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0008" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0009" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0010" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0011" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0012" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0013" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_uerrocima0014" x="3791" y="815" width="364" height="426" frameX="0" frameY="-12" frameWidth="368" frameHeight="439"/>
+	<SubTexture name="bfoculto_up0000" x="4155" y="815" width="367" height="432"/>
+	<SubTexture name="bfoculto_up0001" x="4522" y="815" width="366" height="407" frameX="-1" frameY="-25" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0002" x="0" y="1254" width="366" height="375" frameX="-1" frameY="-57" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0003" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0004" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0005" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0006" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0007" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0008" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0009" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0010" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0011" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0012" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+	<SubTexture name="bfoculto_up0013" x="366" y="1254" width="365" height="365" frameX="-2" frameY="-67" frameWidth="367" frameHeight="432"/>
+</TextureAtlas>

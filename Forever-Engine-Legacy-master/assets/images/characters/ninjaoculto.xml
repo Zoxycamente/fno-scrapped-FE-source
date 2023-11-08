@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ninjaoculto.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downoculto0000" x="0" y="0" width="497" height="504" frameX="0" frameY="-56" frameWidth="497" frameHeight="560"/>
+	<SubTexture name="downoculto0001" x="497" y="0" width="470" height="528" frameX="0" frameY="-32" frameWidth="497" frameHeight="560"/>
+	<SubTexture name="downoculto0002" x="967" y="0" width="458" height="560" frameX="0" frameY="0" frameWidth="497" frameHeight="560"/>
+	<SubTexture name="downoculto0003" x="1425" y="0" width="467" height="548" frameX="0" frameY="-12" frameWidth="497" frameHeight="560"/>
+	<SubTexture name="idleoculto0000" x="1892" y="0" width="458" height="587"/>
+	<SubTexture name="idleoculto0001" x="2350" y="0" width="458" height="577" frameX="0" frameY="-10" frameWidth="458" frameHeight="587"/>
+	<SubTexture name="idleoculto0002" x="2350" y="0" width="458" height="577" frameX="0" frameY="-10" frameWidth="458" frameHeight="587"/>
+	<SubTexture name="idleoculto0003" x="2808" y="0" width="458" height="558" frameX="0" frameY="-29" frameWidth="458" frameHeight="587"/>
+	<SubTexture name="idleoculto0004" x="3266" y="0" width="458" height="567" frameX="0" frameY="-20" frameWidth="458" frameHeight="587"/>
+	<SubTexture name="idleoculto0005" x="3266" y="0" width="458" height="567" frameX="0" frameY="-20" frameWidth="458" frameHeight="587"/>
+	<SubTexture name="leftoculto0000" x="0" y="587" width="514" height="587" frameX="0" frameY="0" frameWidth="528" frameHeight="587"/>
+	<SubTexture name="leftoculto0001" x="514" y="587" width="499" height="577" frameX="-28" frameY="-10" frameWidth="528" frameHeight="587"/>
+	<SubTexture name="leftoculto0002" x="1013" y="587" width="479" height="577" frameX="-49" frameY="-10" frameWidth="528" frameHeight="587"/>
+	<SubTexture name="leftoculto0003" x="1492" y="587" width="444" height="577" frameX="-79" frameY="-10" frameWidth="528" frameHeight="587"/>
+	<SubTexture name="rightoculto0000" x="1936" y="587" width="432" height="587" frameX="-121" frameY="0" frameWidth="553" frameHeight="587"/>
+	<SubTexture name="rightoculto0001" x="2368" y="587" width="424" height="577" frameX="-106" frameY="-10" frameWidth="553" frameHeight="587"/>
+	<SubTexture name="rightoculto0002" x="2792" y="587" width="454" height="577" frameX="-35" frameY="-10" frameWidth="553" frameHeight="587"/>
+	<SubTexture name="rightoculto0003" x="3246" y="587" width="460" height="577" frameX="0" frameY="-10" frameWidth="553" frameHeight="587"/>
+	<SubTexture name="upoculto0000" x="0" y="1174" width="478" height="708" frameX="0" frameY="0" frameWidth="481" frameHeight="709"/>
+	<SubTexture name="upoculto0001" x="478" y="1174" width="481" height="686" frameX="0" frameY="-22" frameWidth="481" frameHeight="709"/>
+	<SubTexture name="upoculto0002" x="959" y="1174" width="477" height="669" frameX="0" frameY="-40" frameWidth="481" frameHeight="709"/>
+	<SubTexture name="upoculto0003" x="1436" y="1174" width="467" height="654" frameX="0" frameY="-54" frameWidth="481" frameHeight="709"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+idle -170 -169
+singUP -148 -117
+singRIGHT -234 -155
+singLEFT -47 -166
+singDOWN -125 -263
+bebendo -350 -128

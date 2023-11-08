@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nija ocuto.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nija down0000" x="0" y="0" width="263" height="166" frameX="-14" frameY="-12" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0001" x="0" y="0" width="263" height="166" frameX="-14" frameY="-12" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0002" x="263" y="0" width="292" height="150" frameX="0" frameY="-26" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0003" x="263" y="0" width="292" height="150" frameX="0" frameY="-26" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0004" x="555" y="0" width="269" height="163" frameX="-11" frameY="-15" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0005" x="555" y="0" width="269" height="163" frameX="-11" frameY="-15" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0006" x="824" y="0" width="244" height="180" frameX="-24" frameY="0" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0007" x="824" y="0" width="244" height="180" frameX="-24" frameY="0" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0008" x="1068" y="0" width="250" height="176" frameX="-21" frameY="-3" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0009" x="1068" y="0" width="250" height="176" frameX="-21" frameY="-3" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0010" x="1318" y="0" width="255" height="172" frameX="-18" frameY="-7" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija down0011" x="1318" y="0" width="255" height="172" frameX="-18" frameY="-7" frameWidth="292" frameHeight="180"/>
+	<SubTexture name="nija idle0000" x="1573" y="0" width="174" height="231" frameX="-7" frameY="-25" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0001" x="1573" y="0" width="174" height="231" frameX="-7" frameY="-25" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0002" x="1747" y="0" width="170" height="244" frameX="-4" frameY="-12" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0003" x="1747" y="0" width="170" height="244" frameX="-4" frameY="-12" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0004" x="0" y="244" width="167" height="253" frameX="-2" frameY="-3" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0005" x="0" y="244" width="167" height="253" frameX="-2" frameY="-3" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0006" x="167" y="244" width="167" height="255" frameX="0" frameY="-1" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0007" x="167" y="244" width="167" height="255" frameX="0" frameY="-1" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0008" x="334" y="244" width="167" height="256" frameX="0" frameY="0" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0009" x="334" y="244" width="167" height="256" frameX="0" frameY="0" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0010" x="334" y="244" width="167" height="256" frameX="0" frameY="0" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0011" x="334" y="244" width="167" height="256" frameX="0" frameY="0" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0012" x="334" y="244" width="167" height="256" frameX="0" frameY="0" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0013" x="334" y="244" width="167" height="256" frameX="0" frameY="0" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0014" x="334" y="244" width="167" height="256" frameX="0" frameY="0" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija idle0015" x="334" y="244" width="167" height="256" frameX="0" frameY="0" frameWidth="181" frameHeight="256"/>
+	<SubTexture name="nija left0000" x="501" y="244" width="185" height="255" frameX="0" frameY="0" frameWidth="217" frameHeight="255"/>
+	<SubTexture name="nija left0001" x="501" y="244" width="185" height="255" frameX="0" frameY="0" frameWidth="217" frameHeight="255"/>
+	<SubTexture name="nija left0002" x="686" y="244" width="184" height="252" frameX="-25" frameY="-3" frameWidth="217" frameHeight="255"/>
+	<SubTexture name="nija left0003" x="686" y="244" width="184" height="252" frameX="-25" frameY="-3" frameWidth="217" frameHeight="255"/>
+	<SubTexture name="nija left0004" x="870" y="244" width="183" height="252" frameX="-34" frameY="-3" frameWidth="217" frameHeight="255"/>
+	<SubTexture name="nija left0005" x="870" y="244" width="183" height="252" frameX="-34" frameY="-3" frameWidth="217" frameHeight="255"/>
+	<SubTexture name="nija left0006" x="1053" y="244" width="184" height="249" frameX="-25" frameY="-6" frameWidth="217" frameHeight="255"/>
+	<SubTexture name="nija left0007" x="1053" y="244" width="184" height="249" frameX="-25" frameY="-6" frameWidth="217" frameHeight="255"/>
+	<SubTexture name="nija right0000" x="1237" y="244" width="211" height="261" frameX="-38" frameY="0" frameWidth="249" frameHeight="261"/>
+	<SubTexture name="nija right0001" x="1237" y="244" width="211" height="261" frameX="-38" frameY="0" frameWidth="249" frameHeight="261"/>
+	<SubTexture name="nija right0002" x="1448" y="244" width="229" height="257" frameX="-6" frameY="-4" frameWidth="249" frameHeight="261"/>
+	<SubTexture name="nija right0003" x="1448" y="244" width="229" height="257" frameX="-6" frameY="-4" frameWidth="249" frameHeight="261"/>
+	<SubTexture name="nija right0004" x="1677" y="244" width="233" height="256" frameX="0" frameY="-5" frameWidth="249" frameHeight="261"/>
+	<SubTexture name="nija right0005" x="1677" y="244" width="233" height="256" frameX="0" frameY="-5" frameWidth="249" frameHeight="261"/>
+	<SubTexture name="nija right0006" x="0" y="505" width="224" height="257" frameX="-13" frameY="-4" frameWidth="249" frameHeight="261"/>
+	<SubTexture name="nija right0007" x="0" y="505" width="224" height="257" frameX="-13" frameY="-4" frameWidth="249" frameHeight="261"/>
+	<SubTexture name="nija up0000" x="224" y="505" width="217" height="266" frameX="-10" frameY="-12" frameWidth="227" frameHeight="278"/>
+	<SubTexture name="nija up0001" x="224" y="505" width="217" height="266" frameX="-10" frameY="-12" frameWidth="227" frameHeight="278"/>
+	<SubTexture name="nija up0002" x="441" y="505" width="222" height="275" frameX="-4" frameY="-3" frameWidth="227" frameHeight="278"/>
+	<SubTexture name="nija up0003" x="441" y="505" width="222" height="275" frameX="-4" frameY="-3" frameWidth="227" frameHeight="278"/>
+	<SubTexture name="nija up0004" x="663" y="505" width="223" height="278" frameX="0" frameY="0" frameWidth="227" frameHeight="278"/>
+	<SubTexture name="nija up0005" x="663" y="505" width="223" height="278" frameX="0" frameY="0" frameWidth="227" frameHeight="278"/>
+	<SubTexture name="nija up0006" x="886" y="505" width="220" height="274" frameX="-6" frameY="-4" frameWidth="227" frameHeight="278"/>
+	<SubTexture name="nija up0007" x="886" y="505" width="220" height="274" frameX="-6" frameY="-4" frameWidth="227" frameHeight="278"/>
+</TextureAtlas>
